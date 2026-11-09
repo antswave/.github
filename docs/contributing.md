@@ -1,6 +1,6 @@
-# Contributing to CS Devs
+# Contributing to Ants Wave
 
-Thank you for your interest in contributing to CS Devs! We welcome contributions from the community and are grateful for your support.
+Thank you for your interest in contributing to Ants Wave! We welcome contributions from the community and are grateful for your support.
 
 ## Getting Started
 
@@ -63,6 +63,6 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 ## Questions?
 
-If you have any questions about contributing, please contact us at info@csdevs.org or visit our website at csdevs.org.
+If you have any questions about contributing, please contact us at info@antswave.org or visit our website at antswave.com
 
-Thank you for contributing to CS Devs!
+Thank you for contributing to Ants Wave!
