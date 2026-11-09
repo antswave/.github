@@ -1,15 +1,15 @@
-# Hi 👋, We are CS Devs
+# Hi 👋, We are Ants Wave
 
 This is the organization for dev ltools.
 
 ## 🚀 About Us
 
-We are CS Devs, an organization dedicated to creating development tools.
+We are Ants Wave, an organization dedicated to creating development tools.
 
 ## Contact us
 
-- Email: info@csdevs.org
-- Website: https://csdevs.org
+- Email: info@antswave.org
+- Website: https://antswave.com
 
 ## Contributing
 
